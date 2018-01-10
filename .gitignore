@@ -1,0 +1,10 @@
+*temp*
+*.txt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/vidoes
+!assets/vidoes/tour_*.mp4
+#this is a comment
